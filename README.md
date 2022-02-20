@@ -16,6 +16,9 @@
 
 ## Credits
 Flash_#5420
+
 Owner of https://strike.wtf/
+
 https://www.youtube.com/c/Flashcheats
+
 Coded a lot of the memory utils.
