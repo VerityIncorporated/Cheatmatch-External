@@ -11,7 +11,7 @@ External Cheat I made for Redmatch 2
      - Anti-Shield
      - Fast Melee
 
-1. Misc
+2. Misc
      - No Slowdown
      - Freeze Players
      - Freeze Players + TP
